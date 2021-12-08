@@ -1,0 +1,6 @@
+AWSTemplateFormatVersion: 2010-09-09
+Resources:
+  S3B1E6P8:
+    Type: 'AWS::S3::Bucket'
+    Properties: {}
+    
